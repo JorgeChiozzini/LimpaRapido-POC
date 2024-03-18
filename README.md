@@ -21,21 +21,18 @@ Justamente por se tratar de uma POC, o escopo apresentado será o MVP (Minimum V
 
 
 
-## 💻 Tecnologias utilizadas: (a definir)
+## 💻 Tecnologias utilizadas:
 - `Nextjs`
+- `PHP`
 
 ## 🎦 Demonstração: 
 (link do Youtube)
 
 
-## 👥 Desenvolvedores: (vai colocar foto?)
+## 👥 Desenvolvedores:
 
-- BRUNO DE OLIVEIRA CONTAIFER
 - CINARA DOS SANTOS LOPES FARIAS
 - DAVID QUIROGA GALHARDO BUENO DA SILVA
 - GUSTAVO FONSECA DA SILVA
 - JONATHAN CARLETTO JESUS
 - JORGE LUIZ CHIOZZINI JUNIOR
-
-
-------------
