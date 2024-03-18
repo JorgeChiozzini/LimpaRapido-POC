@@ -1,10 +1,6 @@
 # 📝 Descrição do projeto:
 O LimpaRápido visa revolucionar a experiência de contratação de serviços de limpeza, proporcionando um ambiente digital seguro e eficiente onde prestadores de serviços e clientes podem se encontrar. Nossa visão é criar uma plataforma intuitiva que atenda às necessidades de ambas as partes, garantindo a confiança, qualidade e conveniência no processo de contratação, se destacando pela flexibilidade na escolha de profissionais de limpeza, e um sistema robusto de avaliações que ajuda na tomada de decisões.
 
-O aplicativo será desenvolvido no futuro como um aplicativo Web e Mobile, e para uma apresentação inicial aos sponsors do projeto foi desenvolvida esta POC (Proof of Concept - Prova de Conceito).
-
-Justamente por se tratar de uma POC, o escopo apresentado será o MVP (Minimum Viable Product - Produto Mínimo Viável) do projeto. A seguir, apresentamos a descrição técnica da POC.
-
 ## 🔨 Funcionalidades (visão Cliente):
 - `Funcionalidade 1`: Cadastro e atualização de dados
 - `Funcionalidade 2`: Cadastro de endereços
@@ -19,15 +15,12 @@ Justamente por se tratar de uma POC, o escopo apresentado será o MVP (Minimum V
 - `Funcionalidade 4`: Visualização dos agendamentos aceitos
 - `Funcionalidade 5`: Avaliar o cliente
 
-
-
 ## 💻 Tecnologias utilizadas:
 - `Nextjs`
 - `PHP`
 
 ## 🎦 Demonstração: 
 (link do Youtube)
-
 
 ## 👥 Desenvolvedores:
 
