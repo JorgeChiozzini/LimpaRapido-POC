@@ -16,7 +16,7 @@ O LimpaRápido visa revolucionar a experiência de contratação de serviços de
 - `Funcionalidade 5`: Avaliar o cliente
 
 ## 💻 Tecnologias utilizadas:
-- `Nextjs`
+- `Next.js`
 - `PHP`
 
 ## 🎦 Demonstração: 
