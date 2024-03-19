@@ -22,7 +22,7 @@ O LimpaRápido visa revolucionar a experiência de contratação de serviços de
 ## 🎦 Demonstração: 
 (link do Youtube)
 
-## 🎦 Instruções para executar (Frontend): 
+## 🛠️ Instruções para executar (Frontend): 
 ### Requisitos:
 - Instalar Node.js (Versão LTS)
 - Clonar repositório do git
@@ -33,7 +33,7 @@ O LimpaRápido visa revolucionar a experiência de contratação de serviços de
     - cd frontend/limpa-rapido
     - npm install
     - npm run dev
-    - Acessar a url => http://localhost:3000/sign-up
+    - Acessar a url: http://localhost:3000/sign-up
 
 ## 👥 Desenvolvedores:
 
