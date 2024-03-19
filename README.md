@@ -5,7 +5,7 @@ O LimpaRápido visa revolucionar a experiência de contratação de serviços de
 - `Funcionalidade 1`: Cadastro
 - `Funcionalidade 2`: Busca por prestadores de serviço
 - `Funcionalidade 3`: Solicitar o serviço de faxina
-- `Funcionalidade 5`: Exibição de nota do perfil do prestador
+- `Funcionalidade 4`: Exibição de nota do perfil do prestador
 
 ## 🔨 Funcionalidades (visão Prestador):
 - `Funcionalidade 1`: Cadastro
